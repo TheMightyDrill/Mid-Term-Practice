@@ -1,0 +1,9 @@
+﻿  Taxpayer.cpp
+c:\users\benjamin\source\repos\mid-term practice\mid-term practice\taxpayer.cpp(12): error C2084: function 'Taxpayer::Taxpayer(int,double,int)' already has a body
+  c:\users\benjamin\source\repos\mid-term practice\mid-term practice\taxpayer.h(20): note: see previous definition of '{ctor}'
+c:\users\benjamin\source\repos\mid-term practice\mid-term practice\taxpayer.cpp(18): error C2084: function 'Taxpayer::Taxpayer(Person,int,double,int)' already has a body
+  c:\users\benjamin\source\repos\mid-term practice\mid-term practice\taxpayer.h(26): note: see previous definition of '{ctor}'
+  source.cpp
+  Generating Code...
+  Skipping... (no relevant changes detected)
+  Person.cpp
